@@ -230,7 +230,7 @@
     border-right-color: var(--backgroundColor01) !important
 }
 
-#app-mount .unread_d8bfb3 {
+/*#app-mount .unread_d8bfb3 {
     height: 8px;
     width: 8px;
     border-radius: 4px;
@@ -243,9 +243,9 @@
     background-color: #ffffff00;
     z-index: 10;
     position: absolute
-}
+}*/
 
-#app-mount .unread_d8bfb3:after {
+/*#app-mount .unread_d8bfb3:after {
     content: "";
     position: absolute;
     top: 0;
@@ -257,9 +257,9 @@
     z-index: -2;
     animation: pulse 2s infinite;
     will-change: transform
-}
+}*/
 
-#app-mount .unread_d8bfb3:hover:after {
+/*#app-mount .unread_d8bfb3:hover:after {
     animation: none
 }
 
@@ -273,7 +273,7 @@
         transform: scale(2);
         opacity: 0
     }
-}
+}*/
 
 #app-mount .newMessagesBar_cf58b5 {
     background-color: var(--mainColor)
